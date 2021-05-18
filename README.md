@@ -1,7 +1,9 @@
 
 # Prueba Técnica :rocket:
 
-Gracias por considerar a Recaudia como parte de su trayectoria profesional. Te compartimos toda la información necesario para que puedas realizar tu prueba sin ningún inconveniente. 
+Gracias por considerar a Recaudia como parte de su trayectoria profesional. 
+
+Te compartimos toda la información necesaria para que puedas realizar tu prueba sin ningún inconveniente. 
 
 ¿Qué evaluamos?
 
@@ -68,3 +70,5 @@ Es por eso que nos vemos en la necesidad de construir una que cumpla con las sig
 
 ### Deseable:  :boom:
 1. Permitir registrar un avatar a los usuarios del sistema. 
+
+# Al terminar tu desafío envía un correo donde nos compartas tu CV, link público del repositorio y los insumos necesarios para poder evaluarlo.
