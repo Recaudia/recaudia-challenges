@@ -7,7 +7,7 @@ Te compartimos toda la información necesaria para que puedas realizar tu prueba
 
 ¿Qué evaluamos?
 
-1. Arquitectura del sistema. 
+1. Arquitectura del sistema.
 2. Dependencias a usar.
 3. Lógica para resolver problemas.
 4. Cómo reutilizas tu código.
@@ -23,9 +23,10 @@ Recuerda siempre usar versiones LTS y escribir tu código en ingles.
 Crear una aplicación web para Recaudia dado el siguiente diseño: [Ver](https://nebuladiag.blob.core.windows.net/challenges/prueba.pdf)
 
 La aplicacion debe contar con las siguientes caracteristicas:
-1. Responsive
-2. d
-3. 
+
+1. Pantalla de Loguin
+2. Listado de Personas
+3. Detalle de una persona
 
 Consumir API 
 
@@ -54,7 +55,9 @@ Bearer <token>
 ```
 
 ### Deseable:  :boom:
-1. Permitir
+1. El diseño deberá ser lo mas similar posible a la maqueta presentada anteriormente.
+2. Agregar responsive a las pantallas
+3. Manejo de Lazy Loading
 
 
 
