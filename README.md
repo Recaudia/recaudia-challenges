@@ -18,6 +18,10 @@ Tecnologías a usar.
 
 Recuerda siempre usar versiones LTS y escribir tu código en ingles. 
 
+## Tiempo estimado:
+
+Máximo 3 días
+
 ## Frontend :eyeglasses:
 
 Crear una aplicación web para Recaudia dado el siguiente diseño: [Ver](https://nebuladiag.blob.core.windows.net/challenges/prueba.pdf)
