@@ -24,7 +24,7 @@ Crear una aplicación web para Recaudia dado el siguiente diseño: [Ver](https:/
 
 La aplicacion debe contar con las siguientes caracteristicas:
 
-1. Pantalla de Loguin
+1. Pantalla de Login
 2. Listado de Personas
 3. Detalle de una persona
 
@@ -38,7 +38,7 @@ URL: https://test-api-nebula.recaudia.com/
 
 ### Authorization: 
 
-Bearer <token>
+Bearer TjUVdA1QOATIwiZ7Cp
   
 ### Método 
   POST
@@ -70,8 +70,9 @@ Es por eso que nos vemos en la necesidad de construir una que cumpla con las sig
 1. Login.
 2. Registrar,actualizar y eliminar datos de una persona, donde los campos obligatorio son: email, nombre y apellido. Los campos opcionales son: telefono , género y fecha de cumpleaños. Todas las personas al crearlas en nuestra API se le debe asignar el estatus de Prospecto pero tambien debe existir los estatus de Activos e Inactivo.
 3. Las peticiones deben contar con un token de seguridad.
+4. CRUD de los estatus de persona.
 
 ### Deseable:  :boom:
-1. Permitir registrar un avatar a los usuarios del sistema. 
+1. Permitir registrar un avatar a los usuarios del sistema.
 
 # Al terminar tu desafío envía un correo donde nos compartas tu CV, link público del repositorio y los insumos necesarios para poder evaluarlo.
