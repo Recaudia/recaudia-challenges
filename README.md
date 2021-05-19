@@ -24,7 +24,7 @@ Crear una aplicación web para Recaudia dado el siguiente diseño: [Ver](https:/
 
 La aplicacion debe contar con las siguientes caracteristicas:
 
-1. Pantalla de Login
+1. Pantalla de Login (Sólo Maqueta)
 2. Listado de Personas
 3. Detalle de una persona
 
