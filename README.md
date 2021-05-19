@@ -76,4 +76,4 @@ Es por eso que nos vemos en la necesidad de construir una que cumpla con las sig
 1. Permitir registrar un avatar a los usuarios del sistema.
 2. Permitir descargar un reporte de personas en excel.
 
-# Al terminar tu desafío envía un correo donde nos compartas tu CV, link público del repositorio y los insumos necesarios para poder evaluarlo.
+# Al terminar tu desafío envía un correo donde nos compartas tu CV, link público del repositorio y los insumos necesarios para poder ejecutarlo.
