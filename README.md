@@ -79,3 +79,7 @@ Es por eso que nos vemos en la necesidad de construir una que cumpla con las sig
 2. Permitir descargar un reporte de personas en excel.
 
 # Al terminar tu desafío envía un correo donde nos compartas tu CV, link público del repositorio y los insumos necesarios para poder ejecutarlo.
+
+ ![<img
+   src="https://nebuladiag.blob.core.windows.net/challenges/alienship.png"
+   width="100px">](https://nebuladiag.blob.core.windows.net/challenges/alienship.png)
