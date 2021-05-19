@@ -43,7 +43,7 @@ Bearer TjUVdA1QOATIwiZ7Cp
 ### Método 
   POST
 
-  # Body 
+  ### Body 
   ```javascript
   {
     "conditions": {
