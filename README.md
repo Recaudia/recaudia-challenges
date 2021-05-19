@@ -21,6 +21,7 @@ Recuerda siempre usar versiones LTS y escribir tu código en ingles.
 ## Frontend :eyeglasses:
 
 Crear una aplicación web para Recaudia dado el siguiente diseño: [Ver](https://nebuladiag.blob.core.windows.net/challenges/prueba.pdf)
+
 Las imágenes de la maqueta son de referencia puedes usar las mas similares que consigas. 
 
 La aplicacion debe contar con las siguientes caracteristicas:
