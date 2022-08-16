@@ -45,10 +45,6 @@ URL: https://test-api-nebula.recaudia.com/
 ### Authorization: 
 
 Bearer GeGnO56eBwkeqeJEa1
-
-### Nota: Puedes usar cualquier otra API pública si lo consideras necesario. Te recomendamos las siguientes 
-- https://developer.marvel.com/
-- https://pokeapi.co/
   
 ### Método 
   POST
@@ -63,6 +59,9 @@ Bearer GeGnO56eBwkeqeJEa1
      "number_entries": INTEGER           // Optional
 }
 ```
+### Nota: Puedes usar cualquier otra API pública si lo consideras necesario. Te recomendamos las siguientes 
+- https://developer.marvel.com/
+- https://pokeapi.co/
 
 ### Deseable:  :boom:
 1. El diseño deberá ser lo mas similar posible a la maqueta presentada anteriormente.
