@@ -20,7 +20,7 @@ Recuerda siempre usar versiones LTS y escribir tu código en ingles.
 
 ## Tiempo estimado:
 
-Máximo 3 días
+No limitativo 
 
 ## Frontend :eyeglasses:
 
@@ -44,7 +44,11 @@ URL: https://test-api-nebula.recaudia.com/
 
 ### Authorization: 
 
-Bearer TjUVdA1QOATIwiZ7Cp
+Bearer GeGnO56eBwkeqeJEa1
+
+### Nota: Puedes usar cualquier otra API pública si lo consideras necesario. Te recomendamos las siguientes 
+- https://developer.marvel.com/
+- https://pokeapi.co/
   
 ### Método 
   POST
